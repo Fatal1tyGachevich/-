@@ -1,0 +1,4 @@
+-z -c -m"./Debug/lab2_final_tochno.map" -o"./Debug/lab2_final_tochno.out" -w -x -i"C:/CCStudio_v3.1/C6000/rtdx/lib" -i"C:/CCStudio_v3.1/C6000/csl/lib" -i"C:/CCStudio_v3.1/C6000/xdais/lib" -i"C:/CCStudio_v3.1/C6000/bios/lib" -i"C:/CCStudio_v3.1/C6000/cgtools/lib"
+"C:\CCStudio_v3.1\MyProjects\lab2_final_tochno\lab2.cmd"
+"C:\CCStudio_v3.1\MyProjects\lab2_final_tochno\Debug\iir.obj"
+"C:\CCStudio_v3.1\C6000\cgtools\lib\rts6700.lib"
